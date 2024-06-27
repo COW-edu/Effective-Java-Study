@@ -48,11 +48,6 @@
     </td>
     <td align="center">
         <a href="https://github.com/Hoya324">
-            <div>상윤</div>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Hoya324">
             <div>민수</div>
         </a>
     </td>
