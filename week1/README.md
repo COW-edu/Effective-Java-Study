@@ -11,6 +11,8 @@
 ### item8-finalizer와 cleaner 사용을 피하라
 ### item9-try-finally보다는 try-with-resources를 사용하라
 
+---
+
 ## 3장 모든 객체의 공통 메서드
 
 ### item10-equals는 일반 규약을 지켜 재정의하라
